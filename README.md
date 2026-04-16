@@ -58,15 +58,26 @@ Se generaron datasets reducidos para facilitar pruebas y ejecución del proyecto
 
 ---
 
+## Visualizaciones
+
+### Mapa de personas afectadas
+![Mapa](images/mapa_afectados.png)
+
+### Comparación de tecnologías por región
+![Radar](images/radar_cobertura.png)
+
+### Evolución de la cobertura
+![Evolución](images/evolucion_cobertura.png)
+
+
 ## Estructura del proyecto
 
 analisis-cobertura-movil/
-│
-├── data/
-├── dataset_proyecto_final.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+data/
+dataset_proyecto_final.py
+README.md
+requirements.txt
+.gitignore
 
 ---
 
@@ -106,7 +117,7 @@ Este análisis permite identificar brechas digitales en Colombia y aporta inform
 
 ---
 
-## 🚀 Autor
+## Autor
 
 Miguel Quintero  
 Estudiante de Ciencia de Datos
